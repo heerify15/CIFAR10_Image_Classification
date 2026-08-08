@@ -166,6 +166,7 @@ The training process was monitored using loss curves to analyze:
 │
 ├── Output/
 │   ├── loss_curve.png
+|   └── heatmap.png
 │   └── confusion_matrix.png
 │
 └── README.md
